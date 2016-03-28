@@ -4,3 +4,7 @@ A simple app that tests Python 3.4's diff capabilities.  For March 21st-28th sta
 The app first compares two lines, then two paragraphs, then two pages, all of which are of my choosing.
 
 The only difficulties that I faced were the unicode issues with ASCII when comparing entire pages.  Everything else was easy to figure out.
+
+"DIFFapp.py" is the code that I wrote to utilize the diff capabilities.
+
+"argon1" and "argon1edit" are the two pages that I compared.  The lines and paragraphs comparisons were simply of strings within the code itself.
